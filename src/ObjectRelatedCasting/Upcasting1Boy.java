@@ -31,10 +31,6 @@ public class Upcasting1Boy extends Upcasting1Human {
 		v.walk();
 		
 		
-		Upcasting1Boy m=(Upcasting1Boy) new Upcasting1Human();	
-		System.out.println(v.b);
-		v.talk();
-		v.walk();
 		
 		
 		
